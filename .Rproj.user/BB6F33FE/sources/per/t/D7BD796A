@@ -5,13 +5,15 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "0",
+    "hash" : "1348850778",
     "id" : "D7BD796A",
-    "lastKnownWriteTime" : 1546149189,
-    "last_content_update" : 1546149189041,
+    "lastKnownWriteTime" : 1547599735,
+    "last_content_update" : 1547599735934,
     "path" : "C:/Users/akomo/OneDrive/Desktop/git/LegisScanneR/GetData.R",
     "project_path" : "GetData.R",
     "properties" : {
+        "cursorPosition" : "14,26",
+        "scrollLine" : "11",
         "tempName" : "Untitled1"
     },
     "relative_order" : 1,
